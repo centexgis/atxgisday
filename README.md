@@ -1,4 +1,5 @@
 # atxgisday
 
-This is a repo for the github pages site atxgisday.org site. 
+This is content for the GitHub hosted project site atxgisday.org. 
+
 You can view it here: [atxgisday](https://centexgis.github.io/atxgisday)
