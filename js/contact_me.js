@@ -18,14 +18,14 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "//formspree.io/aubrhea@gmail.com",
+                url: "//formspree.io/atxgisday@gmail.com",
                 method: "POST",
                 data: {
                     name: name,
                     phone: phone,
                     email: email,
                     message: message,
-					dataType: "json"
+		    dataType: "json"
                 },
                 cache: false,
                 success: function(data) {
